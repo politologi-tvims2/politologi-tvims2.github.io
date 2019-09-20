@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-  title: "Multivariate statistics with Daria"
+  title: "ТВиМС, 2019 - 2020"
   left:
     - text: "Welcome"
       href: index.html
