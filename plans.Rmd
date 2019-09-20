@@ -1,5 +1,5 @@
 ---
-title: "Plans"
+title: "Что порешать и почитать"
 output: 
   html_document:
     toc: true
@@ -7,54 +7,24 @@ output:
     toc_float: true
     theme: united
 ---
+
+# Занятие 1
+
+Тема: совместное распределение сл.в., характеристики сл.в., биномиальное распределение, распределение Пуассона
  
-# Overview 
+<a href="seminar1.pdf" title=>Seminar 1</a> 
+
+<a href="lab1.R" title=>Lab session 1</a> 
+
+<a href="hw1.pdf" title=>Home assignment 1</a> 
  
-This is a workspace for discussion. 
+# Занятие 2
  
-## Meetings 
+Тема: непрерывные сл.в., функция плотности, экспоненциальное распределеление, нормальное распределение 
  
-Tuesday: 15.00 \
-Thursday: 17.00 
+<a href="seminar2.pdf" title=>Seminar 2</a>  
+
+Home assignment 2 (обязательное): дорешать из файла Seminar 2 задания 3, 5, 7, 8 + подготовиться к проверочной работе 1 <i class="fa fa-exclamation-circle fa-2x"></i> 
+
+<a href="hw2_optional.pdf" title=>Home assignment 2 (optional) </a> 
  
-## Workshops
- 
-Monday
-Friday
- 
-# Summary 
- 
-Rule 1. Communicate 
-Rule 2. Adjust 
-Rule 3. In advance 
- 
-## Trials (from the book)
- 
-There are two possible outcomes for each trial. Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the left of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited).
- 
-## North 
- 
-rom North's School, is looking for new of telling stories that can better engage diverse audiences. Read our inaugural post (cited)
- 
-## South 
- 
-Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the right of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited). 
- 
-## East 
- 
-Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the left of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited).
- 
-## West 
- 
-<font color='blue'>Практическое занятие 1 </font>Each field goal is a success or failure. Notice that we could further divide failures into other categories: too short, long enough but to the left of the uprights, long enough but to the right of the uprights, or some combinations of these. If our interest is only in whether the kick is successful, then differentiating among the modes of failure is not necessary (cited).
- 
-# Heckman models
- 
-## Reading
- 
-1) [Heckman in Stata](https://www.stata.com/manuals13/rheckman.pdf)
-2) <a href="Heckman_example_1.pdf" title=>Example 1</a> <i class="fa fa-camera-retro fa-2x"></i> 
- 
-## Lab 
- 
-1) <a href="lab1.R" title=>Lab session 1</a> 

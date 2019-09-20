@@ -4,20 +4,21 @@ navbar:
   left:
     - text: "Welcome"
       href: index.html
-    - text: "Plans"
+    - text: "Что порешать и почитать"
       href: plans.html
-    - text: "lines"
+    - text: "Важные даты"
       href: deadlines.html
   right: 
-    - text: "Contact me"
+    - text: "Напиши Дарье"
       icon: fa-envelope-o
       href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/Maria150719       # CHANGE HERE 
+    - text: "Напиши Алене"
+      icon: fa-envelope-o
+      href: mailto:alsurkova@bk.ru # CHANGE HERE 
 output:
   html_document:
     theme: united
+    css: style.css
     
     
     
