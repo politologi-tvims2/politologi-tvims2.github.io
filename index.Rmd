@@ -1,0 +1,3 @@
+---
+title: "<em><font color='orange'>Multivariate Statistics with Daria</font></em>"
+---

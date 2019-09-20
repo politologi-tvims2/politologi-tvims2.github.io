@@ -1,0 +1,25 @@
+output_dir: "."
+navbar:
+  title: "Multivariate statistics with Daria"
+  left:
+    - text: "Welcome"
+      href: index.html
+    - text: "Plans"
+      href: plans.html
+    - text: "lines"
+      href: deadlines.html
+  right: 
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/Maria150719       # CHANGE HERE 
+output:
+  html_document:
+    theme: united
+    
+    
+    
+    
+    
