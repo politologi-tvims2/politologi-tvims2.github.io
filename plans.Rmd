@@ -45,3 +45,13 @@ Home assignment 2 (обязательное): дорешать из файла S
 <a href="tvims2_seminar4.pdf" title=>Seminar 4</a> 
 
 <a href="tvims2_hw_bonus.pdf" title=>Bonus</a> 
+
+# Занятие 5
+
+Тема: доверительные интервалы для MLE-оценок, распределение хи-квадрат
+
+<a href="tvims2_sem5.pdf" title=>Seminar 5</a> 
+
+<a href="tvims2_lab3.R" title=>Lab session 3</a> 
+
+<a href="tvims2_hw5.pdf" title=>Домашнее задание 5</a> 
