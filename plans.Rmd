@@ -55,3 +55,31 @@ Home assignment 2 (обязательное): дорешать из файла S
 <a href="tvims2_lab3.R" title=>Lab session 3</a> 
 
 <a href="tvims2_hw5.pdf" title=>Домашнее задание 5</a> 
+
+# Занятие 6
+
+Тема: основы проверки статистических гипотез 
+
+<a href="tvims2_seminar6.pdf" title=>Seminar 6</a> 
+
+# Занятие 7 
+
+Тема: основы проверки статистических гипотез + проверочная работа 
+
+<a href="tvims2_hypothesis_testing.pdf" title=>Презентация: проверка гипотез</a> 
+
+Домашнее задание: 
+
+1) выполнить задание, сдаваемое на проверку <a href="https://www.dropbox.com/sh/xt97x9qn66uvx10/AADLVJ5O3So7dc0wIPRt-1Mca?dl=0" title=>Домашнее задание 6 (второе сдаваемое)</a>
+
+2) дорешать задание 3 из <a href="tvims2_seminar6.pdf" title=>Seminar 6</a> 
+
+Reading:
+
+1) обязательное: <a href="https://yadi.sk/i/2d6t-bJK1Rjo2Q" title=>Wackerly</a> Chapter 10 (10.1, 10.2 (про ошибку второго рода можно не читать), 10.6, 10.7)
+
+2) <a href="Cohen_1994.pdf" title=>Cohen</a> 
+
+3) <a href="the ASA's Statement on p-values.pdf" title=>the ASA's Statement on p-values</a>
+
+4) <a href="https://statmodeling.stat.columbia.edu/?s=p-value" title=>интересные дискуссии о p-value -- reflection by Andrew Gelman</a>
