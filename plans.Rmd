@@ -83,3 +83,21 @@ Reading:
 3) <a href="the ASA's Statement on p-values.pdf" title=>the ASA's Statement on p-values</a>
 
 4) <a href="https://statmodeling.stat.columbia.edu/?s=p-value" title=>интересные дискуссии о p-value -- reflection by Andrew Gelman</a>
+
+# Занятие 8 
+
+Тема: проверка гипотезы о равенстве вариаций. Распределение Фишера
+
+<a href="tvims2_sem7.pdf" title=>Seminar 7</a>
+
+<a href="tvims2_lab_4.R" title=>Lab session 4</a>
+
+<a href="price.dta" title=>Price.dta</a>
+
+<a href="tvims2_hw_7.pdf" title=>Домашнее задание 7</a>
+
+# Занятие 9 
+
+Тема: проверка гипотез (продолжение)
+
+<a href="tvims2_hw8.pdf" title=>Домашнее задание 8</a>
