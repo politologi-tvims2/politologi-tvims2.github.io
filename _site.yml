@@ -12,9 +12,9 @@ navbar:
     - text: "Напиши Дарье"
       icon: fa-envelope-o
       href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
-    - text: "Напиши Алене"
+    - text: "Напиши Валентину"
       icon: fa-envelope-o
-      href: mailto:alsurkova@bk.ru # CHANGE HERE 
+      href: mailto:wally.kopylov@gmail.com # CHANGE HERE 
 output:
   html_document:
     theme: united
