@@ -105,3 +105,22 @@ Reading:
 # Занятие 10
 
 <a href="tvims2_hw9.pdf" title=>Домашнее задание 9</a>
+
+# Занятие 10
+
+<a href="tvims2_seminar9.pdf" title=>Seminar 9</a>
+
+<a href="tvims_hw10.pdf" title=>Домашнее задание 10</a>
+
+# Занятие 11 
+
+Тема: модель линейной парной регрессии, МНК-оценки, допущения об ошибках
+
+<a href="tvims2_lecture1.pdf" title=>Lecture notes</a>
+
+<a href="tvims2_hw11.pdf" title=>Домашнее задание 11</a>
+
+Reading: 
+
+<a href="Gujarati.pdf" title=>Gujarati, pp. 37 - 73</a>
+
