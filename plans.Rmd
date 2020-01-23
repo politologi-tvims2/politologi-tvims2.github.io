@@ -132,5 +132,5 @@ Reading:
 
 <a href="tvims2_lecture2.pdf" title=>Lecture notes 2</a>
 
-<a href="tvims2_hw12.pdf" title=>Домашнее задание 12</a>
+<a href="tvims2_hw12-2.pdf" title=>Домашнее задание 12</a>
 
