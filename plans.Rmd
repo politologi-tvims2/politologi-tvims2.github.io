@@ -116,11 +116,21 @@ Reading:
 
 Тема: модель линейной парной регрессии, МНК-оценки, допущения об ошибках
 
-<a href="tvims2_lecture1.pdf" title=>Lecture notes</a>
+<a href="tvims2_lecture1.pdf" title=>Lecture notes 1</a>
 
 <a href="tvims2_hw11.pdf" title=>Домашнее задание 11</a>
 
 Reading: 
 
 <a href="Gujarati.pdf" title=>Gujarati, pp. 37 - 73</a>
+
+# Занятие 12 
+
+Тема: модель линейной парной регрессии, проверка статистической значимости оценок коэффициентов, разложение вариации отклика, ANOVA-таблица
+
+<a href="tvims2_seminar1_regression.pdf" title=>Regression. Seminar 1</a>
+
+<a href="tvims2_lecture2.pdf" title=>Lecture notes 2</a>
+
+<a href="tvims2_hw12.pdf" title=>Домашнее задание 12</a>
 
