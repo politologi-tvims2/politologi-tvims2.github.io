@@ -8,6 +8,8 @@ navbar:
       href: plans.html
     - text: "Важные даты"
       href: deadlines.html
+    - text: "Результаты"
+      href: progress.html
   right: 
     - text: "Напиши Дарье"
       icon: fa-envelope-o

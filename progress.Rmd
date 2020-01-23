@@ -1,0 +1,11 @@
+---
+title: "Наши успехи и типичные ошибки"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: united
+---
+
+<a href="https://docs.google.com/spreadsheets/d/1_7SIlrK_1oooiABY_S5FCgLyIFBrhrzESAa_ailq9YQ/edit#gid=0" title=>Ведомость</a> 

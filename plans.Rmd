@@ -8,6 +8,8 @@ output:
     theme: united
 ---
 
+<a href="https://docs.google.com/spreadsheets/d/1_7SIlrK_1oooiABY_S5FCgLyIFBrhrzESAa_ailq9YQ/edit#gid=0" title=>Ведомость</a> 
+
 # Занятие 1
 
 Тема: совместное распределение сл.в., характеристики сл.в., биномиальное распределение, распределение Пуассона
