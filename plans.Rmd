@@ -106,13 +106,13 @@ Reading:
 
 <a href="tvims2_hw9.pdf" title=>Домашнее задание 9</a>
 
-# Занятие 10
+# Занятие 11
 
 <a href="tvims2_seminar9.pdf" title=>Seminar 9</a>
 
 <a href="tvims_hw10.pdf" title=>Домашнее задание 10</a>
 
-# Занятие 11 
+# Занятие 12 
 
 Тема: модель линейной парной регрессии, МНК-оценки, допущения об ошибках
 
@@ -124,7 +124,7 @@ Reading:
 
 <a href="Gujarati.pdf" title=>Gujarati, pp. 37 - 73</a>
 
-# Занятие 12 
+# Занятие 13 
 
 Тема: модель линейной парной регрессии, проверка статистической значимости оценок коэффициентов, разложение вариации отклика, ANOVA-таблица
 
@@ -133,4 +133,18 @@ Reading:
 <a href="tvims2_lecture2.pdf" title=>Lecture notes 2</a>
 
 <a href="tvims2_hw12-2.pdf" title=>Домашнее задание 12</a>
+
+# Занятие 14
+
+Тема: проверка ДЗ + проверочная работа
+
+<a href="tvims2_hw13.pdf" title=>Домашнее задание 13</a>
+
+# Занятие 15
+
+<a href="tvims_hw_14_.pdf" title=>Домашнее задание 14</a>
+
+<a href="hw14.txt" title=>hw14.txt</a>
+
+
 
