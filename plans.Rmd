@@ -146,5 +146,15 @@ Reading:
 
 <a href="hw14.txt" title=>hw14.txt</a>
 
+<a href="Regression_lab1.R" title=>Lab 1</a>
 
+<a href="reg_lab1.dta" title=>Lab 1. Data</a>
+
+# Занятие 16
+
+<a href="Lecture notes 3.pdf" title=>Lecture notes 3</a>
+
+<a href="regression_lab2.R" title=>Lab 2</a>
+
+<a href="https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" title=>Lectures on linear algebra</a>
 
