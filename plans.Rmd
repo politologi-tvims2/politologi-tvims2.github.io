@@ -156,5 +156,5 @@ Reading:
 
 <a href="regression_lab2.R" title=>Lab 2</a>
 
-<a href="https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" title=>Lectures on linear algebra</a>
+<a href="https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" title=>Lectures on linear algebra</a> <i class="fa fa-video-camera fa"></i>
 
