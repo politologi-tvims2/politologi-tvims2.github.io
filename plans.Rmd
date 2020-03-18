@@ -158,3 +158,12 @@ Reading:
 
 <a href="https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D" title=>Lectures on linear algebra</a> <i class="fa fa-video-camera fa"></i>
 
+# Занятие 17
+
+Тема: гетероскедастичность и нетипичные наблюдения
+
+Домашнее задание к 31 марта: 
+
+<a href="tvims2_hw_15.pdf" title=>Домашнее задание 15</a>
+
+<a href="hw15.dta" title=>hw15.dta</a>
