@@ -167,3 +167,13 @@ Reading:
 <a href="tvims2_hw_15.pdf" title=>Домашнее задание 15</a>
 
 <a href="hw15.dta" title=>hw15.dta</a>
+
+### Дополнительные главы теории вероятностей и математической статистики
+
+# Занятие 1
+
+<a href="tvims3_intro.pdf" title=>Доп. главы ТВиМС. Введение</a>
+
+<a href="tvims3_Lecture_1.pdf" title=>Занятие 1</a>
+
+<a href="tvims3_Seminar_1.pdf" title=>Семинар 1</a>
