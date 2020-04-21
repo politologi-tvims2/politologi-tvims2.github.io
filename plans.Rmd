@@ -182,6 +182,11 @@ Reading:
 
 <a href="tvims3_solution1.pdf" title=>Разбор задач семинара 1</a>
 
+## Занятие 2
+
+<a href="https://drive.google.com/drive/folders/1tk13EF4Mf6P-w_iIVZ1SEt9PoDli1Vsr"title=>Материалы: практикум в R</a> 
+
+Дедлайн: 23.59 23 апреля
 
 
 
