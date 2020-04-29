@@ -186,7 +186,12 @@ Reading:
 
 <a href="https://drive.google.com/drive/folders/1tk13EF4Mf6P-w_iIVZ1SEt9PoDli1Vsr"title=>Материалы: практикум в R</a> 
 
-Дедлайн: 23.59 23 апреля
+## Занятие 3
 
+<a href="https://drive.google.com/drive/folders/1PUh6r7B6kchRLY7LAMZmcPfoqa_9wEp9"title=>Критический анализ эмпирической стратегии исследования</a> 
+
+## Занятие 4
+
+<a href="tvims3_seminar4.pdf"title=>Собственные числа и собственные векторы</a> 
 
 
