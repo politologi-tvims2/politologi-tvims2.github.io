@@ -10,5 +10,5 @@
 23 апреля | <a href="https://drive.google.com/drive/folders/1tk13EF4Mf6P-w_iIVZ1SEt9PoDli1Vsr"title=>Практикум в R </a> | модели с переменными взаимодействия
 30 апреля | <a href="https://drive.google.com/drive/folders/1PUh6r7B6kchRLY7LAMZmcPfoqa_9wEp9"title=>Критический анализ эмпирической стратегии исследования</a> | модели с переменными взаимодействия
 12 мая | к вебинару выполнить <a href="tvims3_seminar4.pdf"title=>задание</a> | собственные числа и собственные векторы 
-19 мая  | проверочная работа | модели с переменными взаимодействия
+19 мая  | проверочная работа | модели с переменными взаимодействия. <a href="tvims3_LO1.pdf" title=>Learning outcomes</a>
 

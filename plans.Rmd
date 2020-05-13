@@ -174,7 +174,7 @@ Reading:
 
 <a href="tvims3_intro.pdf" title=>Доп. главы ТВиМС. Введение</a>
 
-<a href="tvims3_Lecture_1.pdf" title=>Занятие 1</a>
+<a href="tvims3_Lecture_1.pdf" title=>Лекция 1</a>
 
 <a href="tvims3_Seminar_1.pdf" title=>Семинар 1</a>
 
@@ -193,5 +193,11 @@ Reading:
 ## Занятие 4
 
 <a href="tvims3_seminar4.pdf"title=>Собственные числа и собственные векторы</a> 
+
+## Занятие 5
+
+<a href="tvims3_lecture2.pdf"title=>Лекция 2</a> 
+
+<a href="tvims3_hw2.pdf" title=>Домашнее задание 2</a>
 
 
