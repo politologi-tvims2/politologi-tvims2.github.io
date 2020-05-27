@@ -200,4 +200,9 @@ Reading:
 
 <a href="tvims3_hw2.pdf" title=>Домашнее задание 2</a>
 
+## Занятие 6
+
+<a href="PCA.pdf"title=>Задачи по МГК</a> 
+
+<a href="tvims3_hw_PCA.pdf" title=>Домашнее задание 3</a>
 
