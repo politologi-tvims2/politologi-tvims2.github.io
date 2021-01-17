@@ -12,7 +12,7 @@ output:
  
 Тема: регрессия на константу, идея МНК, модель линейной парной регрессии
  
-<a href="tvims2_lecture1.pdf" title=>Занятие 1. Презентация</a>
+<a href="tvims2_reg_lecture1.pdf" title=>Занятие 1. Презентация</a>
 
 <a href="tvims2_lecture1_notes.pdf" title=>Выкладки с лекции</a>
  
