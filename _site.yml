@@ -1,9 +1,7 @@
 output_dir: "."
 navbar:
-  title: "ТВиМС, 2019 - 2020"
+  title: "ТВиМС, 2021"
   left:
-    - text: "Welcome"
-      href: index.html
     - text: "Что порешать и почитать"
       href: plans.html
     - text: "Важные даты"
@@ -14,9 +12,6 @@ navbar:
     - text: "Напиши Дарье"
       icon: fa-envelope-o
       href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
-    - text: "Напиши Валентину"
-      icon: fa-envelope-o
-      href: mailto:wally.kopylov@gmail.com # CHANGE HERE 
 output:
   html_document:
     theme: united
