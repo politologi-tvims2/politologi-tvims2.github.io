@@ -38,5 +38,9 @@ output:
 Данные к ДЗ: 
 <a href="reg_hw.txt" title=>reg_hw.txt</a>
 
+Задания для тренировки перед проверочной работой:
+<a href="tvims2_hw4.pdf" title=>Домашнее задание 4</a>
+
+
 
  
