@@ -78,5 +78,21 @@ output:
 К проверочной работе:
 <a href="tvims2_LO.pdf" title=>Learning Outcomes</a>
 
+# Дополнительные главы ТВиМС
 
+## Занятие 1
+
+<a href="tvims3_intro.pdf" title=>Презентация-введение</a>
+
+<a href="tvims3_lecture1.pdf" title=>Лекция 1</a>
+
+<a href="tvims3_seminar1 (2).pdf" title=>Семинар 1</a>
+
+Reading: 
+
+<a href="Brambor_Clark_Golder.pdf" title=> Brambor et al.</a>
+
+<a href="presentation_Brambor et al..pdf" title=> Презентация по Brambor et al. </a>
+
+<a href="Franzese, Kam.pdf" title=> Franzese, Kam, pp. 19 - 39 </a>
 
