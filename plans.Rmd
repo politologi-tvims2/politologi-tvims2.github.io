@@ -96,3 +96,7 @@ Reading:
 
 <a href="Franzese, Kam.pdf" title=> Franzese, Kam, pp. 19 - 39 </a>
 
+## Занятие 2
+
+<a href="tvims3_hw2.pdf" title=>Домашнее задание к занятию 23 апреля</a>
+
