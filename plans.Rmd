@@ -88,6 +88,8 @@ output:
 
 <a href="tvims3_seminar1 (2).pdf" title=>Семинар 1</a>
 
+<a href="tvims3_solution1.pdf" title=>Решение задач семинара 1</a>
+
 Reading: 
 
 <a href="Brambor_Clark_Golder.pdf" title=> Brambor et al.</a>
