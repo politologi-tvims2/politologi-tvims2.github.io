@@ -112,3 +112,15 @@ Reading:
 
 <a href="tvims3_hw1.pdf" title=>Условие</a>
 
+
+## Занятие 4
+
+<a href="tvims3_lecture2.pdf" title=>Лекция МГК</a>
+
+<a href="tvims3_PCA_practice.pdf" title=>Упражнения по МГК</a>
+
+Домашнее задание до 23.59 31 мая: 
+
+<a href="tvims3_hw_PCA.pdf" title=>Условие</a>
+
+
