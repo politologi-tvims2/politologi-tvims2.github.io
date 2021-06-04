@@ -123,4 +123,19 @@ Reading:
 
 <a href="tvims3_hw_PCA.pdf" title=>Условие</a>
 
+## Занятие 5
+
+<a href="tvims3_lecture3.pdf" title=>Лекция Разведывательный ФА</a>
+
+## Занятие 6
+
+<a href="Bartholomew et al..pdf" title=>Просмотреть главу 7 по ФА</a>
+
+Практическое задание к занятию 8 июня: 
+
+<a href="tvims3_practice_EFA.pdf" title=>Условие</a>
+
+
+
+
 
