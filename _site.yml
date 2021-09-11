@@ -6,7 +6,7 @@ navbar:
       href: plans.html
     - text: "Важные даты"
       href: deadlines.html
-    - text: "Результаты"
+    - text: "Результат"
       href: progress.html
   right: 
     - text: "Напиши Дарье"
