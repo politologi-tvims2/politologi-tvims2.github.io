@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Что порешать и почитать"
       href: plans.html
-    - text: "Дедлайны"
+    - text: "Дедлайн"
       href: deadlines.html
     - text: "Результаты"
       href: progress.html
