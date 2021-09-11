@@ -4,9 +4,9 @@ navbar:
   left:
     - text: "Что порешать и почитать"
       href: plans.html
-    - text: "Важные даты"
+    - text: "Дедлайны"
       href: deadlines.html
-    - text: "Результат"
+    - text: "Результаты"
       href: progress.html
   right: 
     - text: "Напиши Дарье"
