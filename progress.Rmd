@@ -2,4 +2,4 @@
 title: "Успехи и типичные ошибки"
 ---
 
-<a href="https://docs.google.com/spreadsheets/d/1DVbhvbtg__ZBUDxBJmIFFdJ-8j315kW3pNt3qMeRJ7w/edit?usp=sharing" title=>Ведомость ТВиМС</a> 
+<a href="https://docs.google.com/spreadsheets/d/1QL7evErwP1aElHsR8ywzzXtJxju9h7AbfMlRWkNIPvU/edit?usp=sharing" title=>Ведомость ТВиМС</a> 
