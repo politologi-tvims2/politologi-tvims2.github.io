@@ -1,11 +1,5 @@
 ---
-title: "Успехи"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 2
-    toc_float: true
-    theme: united
+title: "Успехи и типичные ошибки"
 ---
 
 <a href="https://docs.google.com/spreadsheets/d/1DVbhvbtg__ZBUDxBJmIFFdJ-8j315kW3pNt3qMeRJ7w/edit?usp=sharing" title=>Ведомость ТВиМС</a> 

@@ -1,12 +1,12 @@
 output_dir: "."
 navbar:
-  title: "ТВиМС, 2021"
+  title: "ТВиМС, 2021 - 2022"
   left:
     - text: "Что порешать и почитать"
       href: plans.html
     - text: "Важные даты"
       href: deadlines.html
-    - text: "Результат"
+    - text: "Наши успехи"
       href: progress.html
   right: 
     - text: "Напиши Дарье"
