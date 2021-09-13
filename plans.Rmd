@@ -16,6 +16,11 @@ output:
 
 <a href="polit_tvims2_hw1_2021 (1).pdf" title=>Домашнее задание 1</a> 
 
+## Занятие 2 
+
+Тема: распределение Пуассона
+
+<a href="polit_tvims2_pset2_2021.pdf" title=>Семинар 2</a> 
 
 
 
