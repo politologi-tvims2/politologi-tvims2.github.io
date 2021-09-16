@@ -22,6 +22,7 @@ output:
 
 <a href="polit_tvims2_pset2_2021.pdf" title=>Семинар 2</a> 
 
+<a href="polit_tvims2_hw2_2021.pdf" title=>Домашнее задание 2</a> 
 
 
 
