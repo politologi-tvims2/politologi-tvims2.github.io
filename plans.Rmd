@@ -24,5 +24,14 @@ output:
 
 <a href="polit_tvims2_hw2_2021.pdf" title=>Домашнее задание 2</a> 
 
+## Занятие 3 
+
+Тема: распределение Пуассона и экспоненциальное распределение, практика в R
+
+<a href="polit_tvims2_seminar3_4_2021.pdf" title=>Семинар 3 (+bonus)</a> 
+
+<a href="polit_tvims2_lab1_2021.R" title=>R. Lab 1</a> 
+
+<a href="polit_tvims2_hw3_2021.pdf" title=>Домашнее задание 3</a> 
 
 
