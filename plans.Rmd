@@ -86,5 +86,8 @@ output:
 
 <a href="tvims3_seminar1solution.pdf" title=>Решение заданий семинара 1</a> 
 
+<a href="tvims3_hw2_2022.pdf" title=>Домашнее задание 2</a> (проверяем на семинаре, сдавать на проверку не нужно) 
+
+
 
 
