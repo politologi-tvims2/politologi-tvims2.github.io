@@ -88,6 +88,12 @@ output:
 
 <a href="tvims3_hw2_2022.pdf" title=>Домашнее задание 2</a> (проверяем на семинаре, сдавать на проверку не нужно) 
 
+## Занятие 3
 
+Домашнее задание к 30 апреля (сдаваемое на проверку): <a href="tvims3_hw1_2022.pdf" title=>Условие ДЗ</a> 
+
+Дополнительное задание (по желанию): 
+
+ознакомиться со статьей Hainmueller et al., 2018 (доступна в <a href = "https://drive.google.com/drive/folders/1jVZOEshO0BZelaTbkIs5u2F5dIdPG93h?usp=sharing" title => общем архиве</a>)
 
 
