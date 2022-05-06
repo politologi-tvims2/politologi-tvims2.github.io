@@ -96,4 +96,8 @@ output:
 
 ознакомиться со статьей Hainmueller et al., 2018 (доступна в <a href = "https://drive.google.com/drive/folders/1jVZOEshO0BZelaTbkIs5u2F5dIdPG93h?usp=sharing" title => общем архиве</a>)
 
+Бонусное задание на доп. баллы по желанию (дедлайн: 23.59 20 мая): 
+
+написать reflection paper по одной из предложенных статей - <a href="reflection_paper.pdf" title=>формулировка задания</a>
+
 
